@@ -1,0 +1,64 @@
+#heading1{
+    background-color: rgb(219, 0, 0);
+   
+    text-align: center;
+    padding: 50px;
+    text-transform: capitalize;
+    margin: 0px;
+    color:  rgb(233, 233, 0);
+    }
+    .main{
+   
+        margin: 0px;
+      padding: 10px ;
+          text-transform: uppercase;
+          color: red;
+          background-color: rgba(247, 247, 6, 0.884);
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      
+      }
+      li{
+        text-transform: capitalize;
+        font-size: 26px;
+    }
+    
+    a{
+        color: red;
+        text-decoration: none;
+
+    }
+    div{
+        margin-top: 2%;
+    background-color: rgb(216, 12, 12);
+margin-left: 30%;
+margin-right: 30%; ;
+padding: 20px;
+    
+    }
+    .h2{
+        border: 2px solid yellow;
+        border-radius: 12px;
+        padding: 5px;
+        border-width: 2px;
+        background-color: yellow;
+        text-align: center;
+
+
+    }
+    #h3{
+       text-align: center;
+       border-bottom: 6px solid yellow;
+    
+    }
+    .a1{
+        color:aliceblue;
+    }
+    span{
+        text-decoration: underline;
+        text-transform: uppercase;
+        color:yellow;
+        
+    }
+    

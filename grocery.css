@@ -1,0 +1,50 @@
+#heading1{
+    background-color: rgb(219, 0, 0);
+    color: white;
+    text-align: center;
+    padding: 50px;
+    text-transform: capitalize;
+    margin: 0px;
+    color:  rgb(233, 233, 0);
+    }
+    .main{
+   
+        margin: 0px;
+      padding: 10px ;
+          text-transform: uppercase;
+          color: red;
+          background-color: rgba(247, 247, 6, 0.884);
+      display: flex;
+      justify-content: space-around;
+      }
+      
+    .heading2, #heading2, #heading3, #heading4 ,#heading5 ,#heading6 ,#heading7 ,#heading8{
+    background-color: rgb(219, 0, 0);
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(233, 233, 0) ;
+    }
+    table{
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        
+       
+    }
+    th{
+        background-color: rgba(247, 247, 6, 0.884);
+    padding: auto;
+    width: 300px;
+    height: 40px;
+    text-transform: capitalize;
+    
+    }
+    li{
+        text-transform: capitalize;
+        font-size: 26px;
+    }
+    a{
+        color: red;
+        text-decoration: none;
+    }
+    
